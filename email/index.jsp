@@ -43,7 +43,7 @@
 				<tr>
 					<td>Enter-Recipient Address &nbsp</td>
 					<td><input type="text" name="recipientAddress"
-						id="recipientAddress" placeholder="F:abc@yash.com"></td>
+						id="recipientAddress" placeholder="F:abc@gmail.com"></td>
 				</tr>
 				<tr>
 					<td>Subject &nbsp</td>

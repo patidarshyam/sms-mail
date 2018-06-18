@@ -17,14 +17,14 @@ public class SendEmailServiceImpl {
 	 * This email address is also used to authenticate the Session which will be
 	 * used in MIME Message.
 	 */
-	private String senderAddress = "shyam.46.cse@gmail.com";
+	private String senderAddress = "<Sender's Email here>";
 
 	/**
 	 * This is the sender's Password through which the email will be send. This
 	 * password is also used to authenticate the Session which will be used in
 	 * MIME Message.
 	 */
-	private final String password = "sp.Shrutee7";
+	private final String password = "<Sender's password here>";
 
 	public String getSenderAddress() {
 		return senderAddress;
